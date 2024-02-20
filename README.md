@@ -36,7 +36,7 @@ Each person should pay: $19.93
 
 # Code
 
+![hghg](https://github.com/Herickk/Tip-Calculator-Start-/assets/104686369/89afffb3-2d1d-487e-8970-3107b3a11fd3)
 
 
-![Capturar](https://github.com/Herickk/Tip-Calculator-Start-/assets/104686369/38a17dd5-9c13-4969-ae9d-567d6e5f2f25)
 
